@@ -132,6 +132,7 @@
     background-position: center;
     background-size: 60%;
     background-repeat: no-repeat;
+    z-index: 3;
   }
   
   .lightbox__button:hover,
